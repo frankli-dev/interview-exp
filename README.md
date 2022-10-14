@@ -30,3 +30,7 @@ Soft: Networked, Mentor, Open to new ideas, Communication, Understanding
 The database is too slow, what to do?
 External requests are too slow, what to do?
 The backend code is too slow, what to do?
+
+## 9. What is a foreign key?
+A FOREIGN KEY is a field (or collection of fields) in one table, that refers to the PRIMARY KEY in another table
+
